@@ -1,4 +1,5 @@
-# keenanmunsami
+# Keenan Munsami
+
 Full-Stack Developer 
 Durban, South Africa
 
@@ -9,7 +10,7 @@ With a BSc Honours in Information Technology and hands-on freelance development 
 
 ---
 
-# Technical Stack
+## Technical Stack
 
 Languages:
 - C#
@@ -38,8 +39,9 @@ Concepts:
 - Real-time Stock Tracking
 - Reporting & Data Processing
 
+---
 
-# Selected Projects
+## Selected Projects
 
 ### Logistics Management System
 Built for DDL Holdings.
